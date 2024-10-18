@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <h2 align="center">Tecnologias que trabajo</h2>
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=css,discord,figma,github,html,js,linux,nodejs,py,react,tailwind&perline=14" />
+  <b align="center">Tecnologias que trabajo</b>
+  <a href="https://skillicons.dev" >
+    <img align="center" src="https://skillicons.dev/icons?i=css,discord,figma,github,html,js,linux,nodejs,py,react,tailwind&perline=14" />
   </a>
 </p>
 
