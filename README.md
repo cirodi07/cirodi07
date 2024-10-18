@@ -13,9 +13,7 @@ function saludar(text){
 saludar("HOLA MUNDO!")
 ```
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h2 align="center">Tecnologias que utilizo</h2>
 <p align="center">
