@@ -8,6 +8,7 @@
 
 <p align="center">
   <b align="center">Tecnologias que trabajo</b>
+  <br>
   <a href="https://skillicons.dev" >
     <img align="center" src="https://skillicons.dev/icons?i=css,discord,figma,github,html,js,linux,nodejs,py,react,tailwind&perline=14" />
   </a>
