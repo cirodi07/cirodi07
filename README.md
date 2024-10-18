@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b size="30px" align="center">Tecnologias que trabajo</b>
+  <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   <br>
   <br>
   <a href="https://skillicons.dev" >
