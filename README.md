@@ -6,8 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2FA1F7&center=true&width=435&lines=Proximo+FullStack" alt="Typing SVG" /></a>
 </p>
 
+<h2 align="center">Tecnologias que utilizo</h2>
 <p align="center">
-  <h2 align="center">Tecnologias que utilizo</h2>
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=css,discord,figma,github,html,js,linux,nodejs,py,react,tailwind&perline=14" />
   </a>
