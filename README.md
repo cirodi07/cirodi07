@@ -7,8 +7,10 @@
 </p>
 
 ```JavaScript
-<function>
-  console.log("HOLA MUNDO!")
+function saludar(text){
+  console.log(text)
+}
+saludar("HOLA MUNDO!")
 ```
 
 <h2 align="center">Tecnologias que utilizo</h2>
