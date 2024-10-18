@@ -6,6 +6,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2FA1F7&center=true&width=435&lines=Proximo+FullStack" alt="Typing SVG" /></a>
 </p>
 
+```js
+<function>
+  console.log("HOLA MUNDO!")
+```
+
 <h2 align="center">Tecnologias que utilizo</h2>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
