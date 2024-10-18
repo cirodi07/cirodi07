@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-  <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que trabajo</h2></summary>
-  </ul>
-</div>
+  
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=css,discord,figma,github,html,js,linux,nodejs,py,react,tailwind&perline=14" />
   </a>
