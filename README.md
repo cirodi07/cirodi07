@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  
+  <h2 align="center">Tecnologias que utilizo</h2>
   <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=css,discord,figma,github,html,js,linux,nodejs,py,react,tailwind&perline=14" />
   </a>
