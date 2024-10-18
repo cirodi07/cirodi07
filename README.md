@@ -15,6 +15,8 @@ saludar("HOLA MUNDO!")
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
 <h2 align="center">Tecnologias que utilizo</h2>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
