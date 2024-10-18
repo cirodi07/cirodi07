@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <b align="center">Tecnologias que trabajo</b>
+  <b size="30px" align="center">Tecnologias que trabajo</b>
+  <br>
   <br>
   <a href="https://skillicons.dev" >
     <img align="center" src="https://skillicons.dev/icons?i=css,discord,figma,github,html,js,linux,nodejs,py,react,tailwind&perline=14" />
